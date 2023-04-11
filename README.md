@@ -10,9 +10,9 @@ For chika bot
 
 Reach out to the maintainer at one of the following places:
 
-- [kayden𝐗yonko](https://https://t.me/OP7AKASH) Owner of the bot.
+- [futaro𝐗yonko](https://https://t.me/OP7AKASH) Owner of the bot.
 
-- My Sasta devloper/editor of this bot [Kakashi](https://t.me/YeahKakashi)
+- My Sasta devloper/editor of this bot [robinxyonko](https://t.me/Ryoo_yamada)
 
 - Contact options listed on [this GitHub profile](https://github.com/DEMONSLEADER)
 
